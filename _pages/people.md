@@ -16,23 +16,23 @@ Shaw Lab Community Mission Statement
 Lab Members
 ======
 
-<img src='/images/Shaw 2023.png'>
 Allison Shaw (Associate Professor, EEB)
+<img src="/images/Shaw 2023.png" alt="Portrait of Allison with short brown hear, wearing a blue top and black cardigan, standing in front of a chalk board" width="500" height="600">
 My research uses math to understand the similarities -- and reconcile the differences -- across species. In particular, I am fascinated by movement: a behavior found in all organisms that is often adaptable on short time scales, and influences the ecology and evolution of populations. I am interested in the factors that drive organisms to move, the consequences of movement, and feedback between these two. Generally, I construct either analytic or simulation models, which are fantastic tools for studying the interface between ecological and evolutionary processes.
 
-<img src='/images/Varghese Steph.png'>
-​​Steph Varghese (2024+ Graduate Student, EEB)
-I am interested in reconciling competing hypotheses of major evolutionary transitions. During my PhD, I hope to explore the role of facilitative interactions for driving novel advancements in biological organization. By combining mathematical modeling approaches in the Shaw Lab with experimental evolution of microbes in the Travisano Lab, I hope to contribute to greater clarity on how simple things gained incredible complexity over billions of years on earth.
+Steph Varghese (2024+ Graduate Student, EEB)
+<img src="/images/Varghese Steph.png" alt="Portrait of Steph Varghese, smiling" width="500" height="600">
+​​I am interested in reconciling competing hypotheses of major evolutionary transitions. During my PhD, I hope to explore the role of facilitative interactions for driving novel advancements in biological organization. By combining mathematical modeling approaches in the Shaw Lab with experimental evolution of microbes in the Travisano Lab, I hope to contribute to greater clarity on how simple things gained incredible complexity over billions of years on earth.
 Close-up of Ching-Lin Huang
 	
-<img src='/images/Huang, Ching-Lin.jpg'>
 Ching-Lin Huang (2024+ Graduate Student, EEB)
+<img src="/images/Huang, Ching-Lin.jpg" alt="Close-up of Ching-Lin Huang" width="500" height="600">
 I am interested in using math to study how species interactions shape ecological communities. My particular focus is on interactions in which organisms modify environmental conditions and thereby indirectly influence other species. Using theoretical models, my work explores how this species-environment feedback shapes biodiversity as well as the spatial and temporal patterns of ecological communities.
 
-<img src='/images/Lutz, Peter.jpg'>
 Peter Lutz (2024+ Graduate Student, EEB)
-​I am interested in using theoretical tools to understand how populations spread through changing environments. Previously, I have used simulations of dispersing species to investigate how their interactions can impact whether they are able to coexist across space.  I hope to continue learning how to apply these approaches to questions related to population dynamics and biodiversity.
+​<img src="/images/Lutz, Peter.jpg' alt="Close-up of Peter Lutz" width="500" height="600">
+I am interested in using theoretical tools to understand how populations spread through changing environments. Previously, I have used simulations of dispersing species to investigate how their interactions can impact whether they are able to coexist across space. I hope to continue learning how to apply these approaches to questions related to population dynamics and biodiversity.
 
-<img src='/images/Yassin.jpg'>
-​Yumna Yassin (2026, Undergraduate student, Neuroscience and Art)
-During my stay in the Shaw lab I want to gain a new way of thinking through understanding theoretical modeling and its applications. I will be expanding on an existing species interactions model by adding an environmental factor. This model will be investigated through the relationship between jellyfish, small fish, and ocean acidification.
+Yumna Yassin (2026, Undergraduate student, Neuroscience and Art)
+<img src="/images/Yassin.jpg" alt="Friendly hijabi girl (Yumna) smiling at the viewer" width="500" height="600">
+​During my stay in the Shaw lab I want to gain a new way of thinking through understanding theoretical modeling and its applications. I will be expanding on an existing species interactions model by adding an environmental factor. This model will be investigated through the relationship between jellyfish, small fish, and ocean acidification.
