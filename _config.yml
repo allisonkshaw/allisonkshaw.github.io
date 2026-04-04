@@ -23,7 +23,7 @@ repository               : "allisonkshaw/allisonkshaw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "/images/Shaw 2023.png"
+  avatar           :  "Shaw 2023.png"
   name             : "Allison Shaw"
   pronouns         : "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
