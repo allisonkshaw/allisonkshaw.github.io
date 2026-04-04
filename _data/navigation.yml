@@ -11,26 +11,21 @@ main:
   - title: "People"
     url: /people/
 
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Personas"
+    url: /personas/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Outreach"
+    url: /outreach/
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
