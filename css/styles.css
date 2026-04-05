@@ -1,0 +1,38 @@
+/* Custom styles beyond TailwindCSS */
+
+/* Focus styles for better accessibility */
+:focus {
+  outline: 3px solid #4f46e5;
+  outline-offset: 2px;
+}
+
+/* Remove focus for non-keyboard interactions but maintain it for keyboard users */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 3px solid #4f46e5;
+  outline-offset: 2px;
+}
+
+/* High contrast mode adjustments */
+@media screen and (forced-colors: active) {
+  a:focus,
+  button:focus,
+  input:focus,
+  select:focus,
+  textarea:focus {
+    outline: 3px solid CanvasText !important;
+  }
+}
+
+/* Reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

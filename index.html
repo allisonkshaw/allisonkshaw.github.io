@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Allison K. Shaw (U of M)</title>
+    <meta
+      name="description"
+      content="A webpage fo Allison K. Shaw at the University of Minnesota - Twin Cities"
+    />
+    <!-- TailwindCSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body class="bg-gray-50 text-gray-900">
+    <a
+      href="#main-content"
+      class="sr-only focus:not-sr-only focus:absolute focus:p-4 focus:bg-blue-600 focus:text-white focus:z-50"
+      >Skip to main content</a
+    >
+
+    <header class="bg-white shadow-sm">
+      <nav aria-label="Main Navigation" class="container mx-auto px-4">
+        <div class="flex items-center justify-between h-16">
+          <div class="flex items-center">
+            <a href="/" class="flex items-center" aria-label="Home">
+              <span class="ml-2 text-xl font-bold">Allison K Shaw</span>
+            </a>
+          </div>
+
+          <!-- Mobile menu button -->
+          <button
+            id="menu-button"
+            type="button"
+            class="md:hidden text-gray-500 hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 rounded-md p-2"
+            aria-expanded="false"
+            aria-controls="menu"
+            aria-label="Toggle navigation menu"
+            accesskey="m"
+          >
+            <svg
+              class="h-6 w-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              aria-hidden="true"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M4 6h16M4 12h16M4 18h16"
+              ></path>
+            </svg>
+          </button>
+
+          <!-- Single responsive navigation menu -->
+          <div
+            id="menu"
+            class="hidden md:block absolute md:relative top-16 md:top-0 left-0 right-0 md:right-auto bg-white md:bg-transparent shadow-md md:shadow-none z-50"
+          >
+            <ul class="flex flex-col md:flex-row md:space-x-6" role="list">
+              <li>
+                <a
+                  href="/"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  aria-current="page"
+                  accesskey="h"
+                  >Home</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/people"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  accesskey="a"
+                  >People</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/research"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  accesskey="s"
+                  >Research</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/publications"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  accesskey="c"
+                  >Publications</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/personas"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  accesskey="c"
+                  >Personas</a
+                >
+              </li>
+              <li>
+                <a
+                  href="/outreach"
+                  class="block py-2 px-4 md:px-0 text-base font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-50 md:hover:bg-transparent rounded-md focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+                  accesskey="c"
+                  >Outreach</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main-content" class="container mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold mb-8" tabindex="-1">
+        TBD
+      </h1>
+
+
+    </main>
+
+    <footer class="bg-gray-800 text-white py-8">
+    </footer>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
