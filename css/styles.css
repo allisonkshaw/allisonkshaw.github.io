@@ -36,3 +36,12 @@
     scroll-behavior: auto !important;
   }
 }
+
+/* Allows side-by-side displaying of items like images and text */
+.flex-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
