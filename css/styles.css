@@ -44,4 +44,10 @@
     gap: 20px;
 }
 
-
+/* Set up 2-column container to use on my index page */
+.container_index {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  padding: 5px;
+  gap: 20px;
+}
